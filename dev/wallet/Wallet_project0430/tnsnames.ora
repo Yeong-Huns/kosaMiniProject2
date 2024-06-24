@@ -1,0 +1,12 @@
+project0430_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-chuncheon-1.oraclecloud.com))(connect_data=(service_name=g9807c1c2501a4d_project0430_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+project0430_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-chuncheon-1.oraclecloud.com))(connect_data=(service_name=g9807c1c2501a4d_project0430_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+project0430_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-chuncheon-1.oraclecloud.com))(connect_data=(service_name=g9807c1c2501a4d_project0430_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+project0430_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-chuncheon-1.oraclecloud.com))(connect_data=(service_name=g9807c1c2501a4d_project0430_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+project0430_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-chuncheon-1.oraclecloud.com))(connect_data=(service_name=g9807c1c2501a4d_project0430_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+

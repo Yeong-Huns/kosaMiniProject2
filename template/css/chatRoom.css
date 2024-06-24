@@ -1,0 +1,66 @@
+.chatroom-container {
+    max-width: 400px;
+    margin: 0 auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.chatroom-header {
+    background-color: white;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+.chatroom-list {
+    max-height: 600px;
+    overflow-y: auto;
+}
+.chatroom-item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+}
+.chatroom-item:hover {
+    background-color: #f1f1f1;
+}
+.chatroom-avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 15px;
+    background-color: #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: #fff;
+    flex-shrink: 0;
+}
+.chatroom-content {
+    flex-grow: 1;
+    overflow: hidden;
+}
+.chatroom-name {
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.chatroom-last-message {
+    color: #888;
+    white-space: pre-wrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;  /* 최대 3줄까지만 표시 */
+    -webkit-box-orient: vertical;
+}
+.chatroom-time {
+    white-space: nowrap;
+    color: #888;
+    flex-shrink: 0;
+}

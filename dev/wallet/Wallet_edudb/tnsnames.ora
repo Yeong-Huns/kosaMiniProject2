@@ -1,0 +1,12 @@
+edudb_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-ashburn-1.oraclecloud.com))(connect_data=(service_name=yib1ww2ppxf45pg_edudb_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+edudb_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-ashburn-1.oraclecloud.com))(connect_data=(service_name=yib1ww2ppxf45pg_edudb_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+edudb_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-ashburn-1.oraclecloud.com))(connect_data=(service_name=yib1ww2ppxf45pg_edudb_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+edudb_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-ashburn-1.oraclecloud.com))(connect_data=(service_name=yib1ww2ppxf45pg_edudb_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+edudb_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-ashburn-1.oraclecloud.com))(connect_data=(service_name=yib1ww2ppxf45pg_edudb_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+

@@ -1,0 +1,12 @@
+ohmystreetfood_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-chuncheon-1.oraclecloud.com))(connect_data=(service_name=gc9b9883e39b10f_ohmystreetfood_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+ohmystreetfood_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-chuncheon-1.oraclecloud.com))(connect_data=(service_name=gc9b9883e39b10f_ohmystreetfood_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+ohmystreetfood_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-chuncheon-1.oraclecloud.com))(connect_data=(service_name=gc9b9883e39b10f_ohmystreetfood_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+ohmystreetfood_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-chuncheon-1.oraclecloud.com))(connect_data=(service_name=gc9b9883e39b10f_ohmystreetfood_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+ohmystreetfood_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-chuncheon-1.oraclecloud.com))(connect_data=(service_name=gc9b9883e39b10f_ohmystreetfood_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
