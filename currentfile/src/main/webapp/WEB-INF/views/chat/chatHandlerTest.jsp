@@ -39,6 +39,12 @@
         });
 
         function startChat() {
+                var params = new URLSearchParams({
+                    senderId: senderId,
+                    receiverId: receiverId
+                });
+
+                fetch(contextPath + 'chat/room')
                 sendMessage(senderId, receiverId);
         }
 </script>
